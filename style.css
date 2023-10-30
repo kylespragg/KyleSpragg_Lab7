@@ -1,0 +1,33 @@
+body {
+
+    background-image: url("istockphoto-1010238190-170667a.webp");
+    background-size: 100%;
+}
+
+h1 {
+
+    color: black;
+    text-align: center;
+}
+h1{
+
+    font-family: Georgia;
+    font-size: 50px;
+}
+p {
+
+    color: white;
+    text-align: left;
+}
+
+p {
+
+    font-family: Georgia;
+    font-size: 20px;
+}
+p1{
+    color: white;
+    text-align: right;
+    font-family: Georgia;
+    font-size: 20px;
+}
